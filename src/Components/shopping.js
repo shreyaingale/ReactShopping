@@ -83,7 +83,7 @@ export default function Shopping() {
       <header className="bg-danger text-white p-2 text-center">
         <h1>
           <span className="bi bi-cart align-center"></span>
-          Shopping home
+          QuickCart
         </h1>
       </header>
       <section className="row mt-3">
